@@ -1,0 +1,1 @@
+Typescript is a static typechecker for js programs. Basically its a tool that runs before your code runs and ensures that the types of the program are correct.
